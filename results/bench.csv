@@ -1,0 +1,91 @@
+algo,pattern,n,time_ms,extra
+QuickSort (deterministic),sorted,1000,0.6057,499500
+QuickSort (randomised),sorted,1000,0.0647,10666
+Plain BST,sorted,1000,3.5490,1000
+Skip List,sorted,1000,0.3750,13
+Treap,sorted,1000,0.2098,25
+QuickSort (deterministic),sorted,2000,2.9212,1999000
+QuickSort (randomised),sorted,2000,0.0592,25851
+Plain BST,sorted,2000,19.7578,2000
+Skip List,sorted,2000,1.0446,12
+Treap,sorted,2000,0.4422,27
+QuickSort (deterministic),sorted,5000,15.1384,12497500
+QuickSort (randomised),sorted,5000,0.3322,68316
+Plain BST,sorted,5000,63.9300,5000
+Skip List,sorted,5000,0.7607,12
+Treap,sorted,5000,0.4072,30
+QuickSort (deterministic),sorted,10000,23.6084,49995000
+QuickSort (randomised),sorted,10000,0.2559,160879
+Plain BST,sorted,10000,255.4946,10000
+Skip List,sorted,10000,1.8889,16
+Treap,sorted,10000,1.6516,28
+QuickSort (deterministic),sorted,20000,140.2933,199990000
+QuickSort (randomised),sorted,20000,0.4587,337981
+Plain BST,sorted,20000,1110.3200,20000
+Skip List,sorted,20000,3.5440,14
+Treap,sorted,20000,1.7968,38
+QuickSort (deterministic),sorted,40000,437.9376,799980000
+QuickSort (randomised),sorted,40000,1.0224,719662
+Plain BST,sorted,40000,17289.2069,40000
+Skip List,sorted,40000,32.3254,16
+Treap,sorted,40000,20.1456,41
+QuickSort (deterministic),random,1000,0.1461,10945
+QuickSort (randomised),random,1000,0.2283,10868
+Plain BST,random,1000,0.4917,21
+Skip List,random,1000,0.9962,11
+Treap,random,1000,0.7413,21
+QuickSort (deterministic),random,2000,0.4569,25243
+QuickSort (randomised),random,2000,0.4356,29449
+Plain BST,random,2000,1.1389,22
+Skip List,random,2000,2.4157,10
+Treap,random,2000,1.4432,24
+QuickSort (deterministic),random,5000,0.9108,68625
+QuickSort (randomised),random,5000,1.3228,66955
+Plain BST,random,5000,3.5449,31
+Skip List,random,5000,7.0222,12
+Treap,random,5000,7.0753,27
+QuickSort (deterministic),random,10000,3.7662,152261
+QuickSort (randomised),random,10000,3.0963,151788
+Plain BST,random,10000,24.2382,31
+Skip List,random,10000,22.1473,15
+Treap,random,10000,9.3333,30
+QuickSort (deterministic),random,20000,5.1396,332989
+QuickSort (randomised),random,20000,7.8021,335368
+Plain BST,random,20000,12.9738,35
+Skip List,random,20000,24.2606,16
+Treap,random,20000,11.5460,34
+QuickSort (deterministic),random,40000,5.0407,734958
+QuickSort (randomised),random,40000,6.7707,711234
+Plain BST,random,40000,25.6293,37
+Skip List,random,40000,66.3900,16
+Treap,random,40000,54.0022,38
+QuickSort (deterministic),reverse,1000,0.7440,499500
+QuickSort (randomised),reverse,1000,0.2595,10792
+Plain BST,reverse,1000,6.8882,1000
+Skip List,reverse,1000,0.5328,10
+Treap,reverse,1000,0.3817,23
+QuickSort (deterministic),reverse,2000,5.3685,1999000
+QuickSort (randomised),reverse,2000,0.2577,22605
+Plain BST,reverse,2000,60.7723,2000
+Skip List,reverse,2000,1.3197,11
+Treap,reverse,2000,0.8684,24
+QuickSort (deterministic),reverse,5000,18.2894,12497500
+QuickSort (randomised),reverse,5000,0.4943,67067
+Plain BST,reverse,5000,305.1885,5000
+Skip List,reverse,5000,3.3592,13
+Treap,reverse,5000,2.2781,29
+QuickSort (deterministic),reverse,10000,144.4187,49995000
+QuickSort (randomised),reverse,10000,1.6313,150556
+Plain BST,reverse,10000,1316.9289,10000
+Skip List,reverse,10000,4.6793,12
+Treap,reverse,10000,2.5702,31
+QuickSort (deterministic),reverse,20000,399.9743,199990000
+QuickSort (randomised),reverse,20000,1.8240,331289
+Plain BST,reverse,20000,5093.1059,20000
+Skip List,reverse,20000,4.5365,16
+Treap,reverse,20000,3.8600,33
+QuickSort (deterministic),reverse,40000,1280.1467,799980000
+QuickSort (randomised),reverse,40000,2.4261,739207
+Plain BST,reverse,40000,6498.7744,40000
+Skip List,reverse,40000,6.2264,16
+Treap,reverse,40000,4.7802,35
